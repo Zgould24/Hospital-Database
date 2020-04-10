@@ -1,0 +1,11 @@
+4
+Cardiology,20
+Pediatric,30
+Oncology,30
+Neurology,20
+Cardiology,Bugs,Bunny,28,Heart Murmur,Stable,December 26 @ 17:20,Dr. Larb,Carrot Care,Anticoagulant
+Pediatric,Daffy,Duck,10,Severe Cold,Stable,December 25  @ 09:00,Dr. Blake,Trumpo Bumpo Care,Antiviral,Nutritional Supplement
+Cardiology,Yosemite,Sam,97,Chest Pain,Critical,December 27 @ 14:00,Dr. Rotcod,No HealthCare,Blood thinner,Stint
+Oncology,Mickey,Mouse,87,Growth On Kidney,Stable,December 25 @ 12:00,Dr. Sinatra,Disney Dynasty Care,Surgical Removal
+Neurology,Cardi,B.,27,Inability to Stop Saying "Skrrt",Critical,December 26 @ 2:00,Dr. Dre,Skrrt Insurance,Antipsychotics
+Neurology,Nicki,Minaj,36,Uncontrollable Rage,Critical,December 25 @ 2:01,Dr. Oz,Insurance United,No Treatment

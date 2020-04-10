@@ -1,0 +1,7 @@
+Cillness,0,Psychotic Episode
+Cdepartment,0,Neurology
+Cstatus,0,Critical Danger
+CDoctor,0,Dr. Giggles
+Rtreatment,2,Stint
+Atreatment,0,Antipsychotic
+Apatient,Cardiology,Bumbo,Dumbo,30,Chest Pain,Stable,December 27 @ 15:00,Dr.Lumbar,BidenLiden Insurance,Anticoagulant,EKG

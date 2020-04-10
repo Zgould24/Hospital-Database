@@ -1,0 +1,87 @@
+[Neurology Ward]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+First name: Cardi
+Last name: B.
+ID: 4
+Age: 27
+Doctor: Dr. Dre
+Healthcare: Skrrt Insurance
+Illness: Inability to Stop Saying "Skrrt"
+Status: Critical
+
+First name: Nicki
+Last name: Minaj
+ID: 5
+Age: 36
+Doctor: Dr. Oz
+Healthcare: Insurance United
+Illness: Uncontrollable Rage
+Status: Critical
+
+First name: Bugs
+Last name: Bunny
+ID: 0
+Age: 28
+Doctor: Dr. Larb
+Healthcare: Carrot Care
+Illness: Psychotic Episode
+Status: Critical Danger
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[Oncology Ward]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+First name: Mickey
+Last name: Mouse
+ID: 3
+Age: 87
+Doctor: Dr. Sinatra
+Healthcare: Disney Dynasty Care
+Illness: Growth On Kidney
+Status: Stable
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[Pediatric Ward]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+First name: Daffy
+Last name: Duck
+ID: 1
+Age: 10
+Doctor: Dr. Blake
+Healthcare: Trumpo Bumpo Care
+Illness: Severe Cold
+Status: Stable
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[Cardiology Ward]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+First name: Yosemite
+Last name: Sam
+ID: 2
+Age: 97
+Doctor: Dr. Rotcod
+Healthcare: No HealthCare
+Illness: Chest Pain
+Status: Critical
+
+First name: Bumbo
+Last name: Dumbo
+ID: 7
+Age: 30
+Doctor: Dr.Lumbar
+Healthcare: BidenLiden Insurance
+Illness: Chest Pain
+Status: Stable
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
